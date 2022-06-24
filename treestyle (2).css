@@ -1,0 +1,60 @@
+
+html{
+    font-size: 30px;
+}
+
+
+
+.box1{
+    padding-left: 100px;
+}
+
+.box2{
+    padding-left: 101.5px;
+}
+
+.box3{
+    padding-left: 89.5px;
+}
+
+.box4{
+    padding-left: 79px;
+}
+
+.box5{
+    padding-left: 71px;
+}
+
+.box6{
+    padding-left: 61.8px;
+}
+
+.box7{
+    padding-left: 101.5px;
+}
+
+.box{
+    color: green;
+}
+
+.box:hover{
+    color: yellow
+}
+
+.trunk{
+    color: brown
+}
+
+.trunk:hover{
+    color: red
+}
+
+.gift{
+    font-family: 'Fredoka', sans-serif;
+    padding-top:50px ;
+}
+
+.b1{
+    padding: 1.5cm;
+    font-size: 0.5cm;
+}
